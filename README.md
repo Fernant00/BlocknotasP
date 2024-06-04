@@ -30,6 +30,7 @@ Proyecto de Blocknotas es una aplicación móvil que permite a los usuarios crea
     npx expo start
     ```
 Nota: para los audios es recomendado usar el emulador desde el celular en la aplicacion de "Expo Go", desde el emulador en la computadora no permite grabar audios.
+
 2. Escanea el código QR con la aplicación Expo Go en tu dispositivo móvil o selecciona un simulador para ejecutar la aplicación.
    
 ## Uso
