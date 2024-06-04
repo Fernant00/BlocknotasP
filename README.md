@@ -42,6 +42,8 @@ Nota: para los audios es recomendado usar el emulador desde el celular en la apl
 
 ## Firebase
 -- notas texto: https://bloc-c0e03-default-rtdb.firebaseio.com/notes.json
+
 -- notas audio: https://bloc-c0e03-default-rtdb.firebaseio.com/audio.json
+
 -- notas dibujo: https://bloc-c0e03-default-rtdb.firebaseio.com/drawings.json
 
